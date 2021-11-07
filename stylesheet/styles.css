@@ -107,8 +107,13 @@ h2 {
  }
 
  #current-projects img {
-     width: 600px;
+     width: 400px;
      height: 300px;
+ }
+
+ #past-projects img {
+     width: 400px;
+     height: 200px;
  }
 
  .projects p {
